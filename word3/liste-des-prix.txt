@@ -1,0 +1,13 @@
+[titre]Boulangerie <NOM>
+[titre1]Liste des prix
+	Baguette	1,00 €
+	Pain au chocolat	1,20 €
+	Croissant	1,10 €
+	Pain de campagne	3,00 €
+	Éclair au chocolat	3,50 €
+	Tarte aux fruits	4,00 €
+	Pain d'épi	4,00 €
+	Madeleine	1,00 €
+	Pain complet	3,50 €
+	Pain de mie	3,00 €
+	Gâteau au chocolat	12,50 €

@@ -1,0 +1,24 @@
+[titre]Note de service n° 2026-14
+De :	Direction des ressources humaines
+À :	L'ensemble du personnel
+Date :	1er octobre 2026
+Objet :	Nouvelle procédure de demande de congés
+À compter du 1er novembre 2026, toutes les demandes de congés se feront exclusivement par le portail RH. Les demandes papier ne seront plus acceptées. Cette note rappelle les règles applicables et précise la marche à suivre.
+[titre1]Règles générales
+[puce]Toute demande doit être déposée au moins :
+[puce2]15 jours à l'avance pour un congé de moins d'une semaine ;
+[puce2]1 mois à l'avance pour un congé d'une semaine ou plus.
+[puce]Les congés d'été (juillet et août) doivent être demandés avant le 31 mars.
+[puce]Dans un même service, deux personnes ne peuvent pas être absentes en même temps sans l'accord du responsable.
+[titre1]Déposer une demande
+[num]Connectez-vous au portail RH avec vos identifiants habituels.
+[num]Cliquez sur « Mes absences », puis sur « Nouvelle demande ».
+[num]Indiquez les dates de début et de fin, ainsi que le type de congé (congés payés, RTT, congé sans solde).
+[num]Validez : votre responsable reçoit automatiquement la demande.
+[num]Vous recevez une réponse par e-mail sous 5 jours ouvrés.
+[titre1]Annuler une demande
+[num]Connectez-vous au portail RH.
+[num]Dans « Mes absences », sélectionnez la demande concernée.
+[num]Cliquez sur « Annuler » et indiquez le motif de l'annulation.
+Pour toute question, contactez le service RH au poste 4512.
+La Direction des ressources humaines

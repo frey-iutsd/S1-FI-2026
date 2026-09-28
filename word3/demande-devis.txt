@@ -1,0 +1,18 @@
+<Prénom> <NOM>
+IUT de Saint-Denis
+Place du 8 mai 1945
+93200 Saint-Denis
+LDLC Paris
+6 boulevard de Sébastopol
+75004 Paris
+Saint-Denis, le <date du jour>
+Objet : Demande de devis
+Madame, Monsieur,
+Je suis membre de l'équipe informatique de l'IUT de Saint-Denis, et nous souhaitons acheter de nouveaux équipements pour certaines de nos salles de classe. Pourriez-vous nous faire parvenir un devis pour la commande suivante ?
+Produits	Quantité
+Cartes mères	100
+Écrans	150
+Cartes graphiques	75
+Webcams	40
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+<Prénom> <NOM>
