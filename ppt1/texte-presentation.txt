@@ -1,0 +1,131 @@
+BRÛLERIE ARDENT — Bilan 2025 et projet 2026
+Texte de la présentation (PowerPoint, première séance)
+
+Pour chaque diapositive : la disposition à choisir, puis le texte à copier.
+Copiez une partie à la fois (le titre, puis le contenu) et collez-la dans la bonne zone de la diapositive.
+
+
+=== Diapositive 1 — Disposition : Diapositive de titre ===
+
+Titre :
+Bilan 2025 et projet 2026
+
+Sous-titre :
+Comité de direction du 24 novembre 2026
+<Prénom> <NOM>, service contrôle de gestion
+
+
+=== Diapositive 2 — Disposition : Titre et contenu ===
+
+Titre :
+Ordre du jour
+
+Contenu :
+Bilan 2025
+Projet 2026 : la boutique en ligne
+Calendrier et décisions
+
+
+=== Diapositive 3 — Disposition : Titre de section ===
+
+Titre :
+Bilan 2025
+
+Texte :
+Une année de croissance
+
+
+=== Diapositive 4 — Disposition : Titre et contenu ===
+
+Titre :
+Chiffres clés 2025
+
+Contenu :
+Chiffre d'affaires : 1,42 million d'euros (+ 8 %)
+Cafés en grains : 62 %
+Cafés moulus : 25 %
+Accessoires : 13 %
+Résultat net : 96 000 euros
+14 salariés, dont 3 alternants
+210 clients professionnels : cafés, restaurants, épiceries fines
+
+
+=== Diapositive 5 — Disposition : Deux contenus ===
+
+Titre :
+Un chiffre d'affaires en hausse chaque trimestre
+
+Contenu de droite :
+Meilleur trimestre : le 4e (fêtes de fin d'année)
+Hausse portée par les clients professionnels
+Ventes en boutique stables
+
+Notes de l'orateur :
+Insister sur le 4e trimestre : 450 000 euros, presque un tiers de l'année. Les coffrets cadeaux de décembre sont notre meilleure vente auprès des particuliers. C'est ce qui nous donne envie de vendre aussi en ligne.
+
+
+=== Diapositive 6 — Disposition : Titre de section ===
+
+Titre :
+Projet 2026 : la boutique en ligne
+
+Texte :
+Vendre aux particuliers partout en France
+
+
+=== Diapositive 7 — Disposition : Titre seul ===
+
+Titre :
+Trois offres pour les particuliers
+
+Légendes des trois icônes (une zone de texte sous chaque icône) :
+Abonnement mensuel
+Livraison en 48 h
+Coffrets cadeaux
+
+
+=== Diapositive 8 — Disposition : Comparaison ===
+
+Titre :
+Deux solutions pour créer le site
+
+Titre de gauche :
+Site sur mesure (agence web)
+
+Contenu de gauche :
+Coût : 25 000 euros
+Délai : 6 mois
+Un site unique, à notre image
+
+Titre de droite :
+Plateforme en ligne (abonnement)
+
+Contenu de droite :
+Coût : 3 000 euros, puis 79 euros par mois
+Délai : 6 semaines
+Modèles de site imposés
+
+
+=== Diapositive à retravailler ===
+
+Voici le texte de la diapositive reçue du service commercial. Ne la recopiez pas telle quelle : la fiche explique ce qu'il faut en faire.
+
+Titre :
+Calendrier
+
+Texte :
+Le projet de boutique en ligne pourrait démarrer dès janvier 2027 si le comité de direction donne son accord aujourd'hui, ce qui nous permettrait de choisir la plateforme et de faire les photos des produits en janvier et février, puis de construire le site en mars (environ 6 semaines avec une plateforme en ligne), pour une ouverture prévue le 1er avril 2027, juste avant la fête des Mères, qui est une période importante pour les coffrets cadeaux. Un premier bilan des ventes sera présenté au comité en octobre 2027. Pour cela, nous avons besoin que le comité valide aujourd'hui le choix de la plateforme en ligne, le budget de 20 450 euros pour la première année, et la désignation d'une responsable du projet (nous proposons Inès Moreau, responsable commerciale), qui pourrait y consacrer une journée par semaine.
+
+
+=== Pour aller plus loin — Disposition : Titre et contenu ===
+
+Titre :
+Budget de la première année : 20 450 euros
+
+Tableau (2 colonnes, 6 lignes) :
+Poste	Montant
+Plateforme (création et 12 mois d'abonnement)	3 950 €
+Photos des produits	2 500 €
+Emballages et expédition	6 000 €
+Publicité en ligne	8 000 €
+Total	20 450 €
