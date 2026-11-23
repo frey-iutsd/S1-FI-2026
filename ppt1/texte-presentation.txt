@@ -31,7 +31,7 @@ Calendrier et décisions
 Titre :
 Bilan 2025
 
-Texte (seulement si la disposition a une deuxième zone) :
+Texte (seulement si la disposition a une deuxième zone sur la diapositive) :
 Une année de croissance
 
 
@@ -69,7 +69,7 @@ Insister sur le 4e trimestre : 450 000 euros, presque un tiers de l'année. Les 
 Titre :
 Projet 2026 : la boutique en ligne
 
-Texte (seulement si la disposition a une deuxième zone) :
+Texte (seulement si la disposition a une deuxième zone sur la diapositive) :
 Vendre aux particuliers partout en France
 
 
