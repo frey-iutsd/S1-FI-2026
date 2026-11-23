@@ -5,7 +5,7 @@ Pour chaque diapositive : la disposition à choisir, puis le texte à copier.
 Copiez une partie à la fois (le titre, puis le contenu) et collez-la dans la bonne zone de la diapositive.
 
 
-=== Diapositive 1 — Disposition : Diapositive de titre ===
+=== Diapositive 1 — Disposition : Diapositive de titre (Title Slide) ===
 
 Titre :
 Bilan 2025 et projet 2026
@@ -15,7 +15,7 @@ Comité de direction du 24 novembre 2026
 <Prénom> <NOM>, service contrôle de gestion
 
 
-=== Diapositive 2 — Disposition : Titre et contenu ===
+=== Diapositive 2 — Disposition : Titre et contenu (Title and Content) ===
 
 Titre :
 Ordre du jour
@@ -26,7 +26,7 @@ Projet 2026 : la boutique en ligne
 Calendrier et décisions
 
 
-=== Diapositive 3 — Disposition : Titre de section ===
+=== Diapositive 3 — Disposition : Titre de section (Section Header) ===
 
 Titre :
 Bilan 2025
@@ -35,7 +35,7 @@ Texte :
 Une année de croissance
 
 
-=== Diapositive 4 — Disposition : Titre et contenu ===
+=== Diapositive 4 — Disposition : Titre et contenu (Title and Content) ===
 
 Titre :
 Chiffres clés 2025
@@ -50,7 +50,7 @@ Résultat net : 96 000 euros
 210 clients professionnels : cafés, restaurants, épiceries fines
 
 
-=== Diapositive 5 — Disposition : Deux contenus ===
+=== Diapositive 5 — Disposition : Deux contenus (Two Content) ===
 
 Titre :
 Un chiffre d'affaires en hausse chaque trimestre
@@ -64,7 +64,7 @@ Notes de l'orateur :
 Insister sur le 4e trimestre : 450 000 euros, presque un tiers de l'année. Les coffrets cadeaux de décembre sont notre meilleure vente auprès des particuliers. C'est ce qui nous donne envie de vendre aussi en ligne.
 
 
-=== Diapositive 6 — Disposition : Titre de section ===
+=== Diapositive 6 — Disposition : Titre de section (Section Header) ===
 
 Titre :
 Projet 2026 : la boutique en ligne
@@ -73,7 +73,7 @@ Texte :
 Vendre aux particuliers partout en France
 
 
-=== Diapositive 7 — Disposition : Titre seul ===
+=== Diapositive 7 — Disposition : Titre seul (Title Only) ===
 
 Titre :
 Trois offres pour les particuliers
@@ -84,7 +84,7 @@ Livraison en 48 h
 Coffrets cadeaux
 
 
-=== Diapositive 8 — Disposition : Comparaison ===
+=== Diapositive 8 — Disposition : Comparaison (Comparison) ===
 
 Titre :
 Deux solutions pour créer le site
@@ -117,7 +117,7 @@ Texte :
 Le projet de boutique en ligne pourrait démarrer dès janvier 2027 si le comité de direction donne son accord aujourd'hui, ce qui nous permettrait de choisir la plateforme et de faire les photos des produits en janvier et février, puis de construire le site en mars (environ 6 semaines avec une plateforme en ligne), pour une ouverture prévue le 1er avril 2027, juste avant la fête des Mères, qui est une période importante pour les coffrets cadeaux. Un premier bilan des ventes sera présenté au comité en octobre 2027. Pour cela, nous avons besoin que le comité valide aujourd'hui le choix de la plateforme en ligne, le budget de 20 450 euros pour la première année, et la désignation d'une responsable du projet (nous proposons Inès Moreau, responsable commerciale), qui pourrait y consacrer une journée par semaine.
 
 
-=== Pour aller plus loin — Disposition : Titre et contenu ===
+=== Pour aller plus loin — Disposition : Titre et contenu (Title and Content) ===
 
 Titre :
 Budget de la première année : 20 450 euros
